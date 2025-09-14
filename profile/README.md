@@ -1,3 +1,3 @@
-Small Strategy is a small Indie Game Development Studio, with a focus on development
-of stratgy games of all sort. Currently working on the debut game Ashes & Blood, which 
-is a mix between a 4X campaign and fast paced TRPG battles.
+Small Strategy is an independent game development studio dedicated to creating strategy games of all kinds.
+We are currently working on our debut title, Ashes & Blood—a blend of expansive 4X 
+campaigns and fast-paced tactical RPG battles.
